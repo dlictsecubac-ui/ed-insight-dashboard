@@ -11,6 +11,8 @@
     "recharts": "3.8.1",
     "lucide-react": "1.17.0",
     "react-is": "19.2.7"
+    "lucide-react": "latest",
+    "recharts": "latest",
   },
   "devDependencies": {
     "@types/react": "19.0.0",
